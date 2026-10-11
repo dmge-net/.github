@@ -18,8 +18,8 @@ Official open-source organization and asset ecosystem for **DMGE** — the next-
 
 | Repository | Purpose | Format |
 | :--- | :--- | :--- |
-| [**dmge-tiles**](https://github.com/dmge-net/dmge-tiles) | Modular, socket-tagged tile library for procedural WFC map generation | 4-way sockets, normalized LOS walls, biomes |
-| [**dmge-props**](https://github.com/dmge-net/dmge-props) | Interactive props, animated tokens, and scripted NPCs | WebM, SVG/PNG, 8-way sprites, patrol scripts |
+| [**tiles**](https://github.com/dmge-net/tiles) | Modular, socket-tagged tile library for procedural WFC map generation | 4-way sockets, normalized LOS walls, biomes |
+| [**props**](https://github.com/dmge-net/props) | Interactive props, animated tokens, and scripted NPCs | WebM, SVG/PNG, 8-way sprites, patrol scripts |
 
 ---
 
